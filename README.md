@@ -76,8 +76,6 @@ Belirlenen araliklarla ESP8266, ThingSpeak sunucusuna HTTP GET istegi gonderir. 
 ## Dosyalar
 
 - `cop_kutusu_izleme__1_/cop_kutusu_izleme__1_.ino`: ESP8266 ve ThingSpeak kullanan ana proje kodu.
-- `cop_kutusu_izleme__1__copy_20260512233226/`: Aciklamali yedek surum.
-- `sketch_may11a/`: ESP8266 AT komutlariyla yerel web sunucusu denemesi.
 
 ## Gelistirme Fikirleri
 
